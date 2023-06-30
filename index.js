@@ -1,5 +1,5 @@
 // Code your solutions in this file
-const gifts = ["teddy bear", "drone", "doll"];
+const gifts = ["teddy bear", "drone", "doll", "racecar"];
 
 function wrapGifts(gifts) {
     for (let i = 0; i < gifts.length; i++) {
